@@ -1,0 +1,13 @@
+quickdb.annotation
+quickdb.db
+quickdb.db.connection
+quickdb.db.dbms
+quickdb.db.dbms.firebird
+quickdb.db.dbms.mysql
+quickdb.db.dbms.postgre
+quickdb.db.dbms.sqlite
+quickdb.exception
+quickdb.modelSupport
+quickdb.query
+quickdb.reflection
+quickdb.util
